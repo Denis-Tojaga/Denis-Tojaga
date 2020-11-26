@@ -38,7 +38,7 @@
 <details>
   <summary>📈 GitHub Stats</summary>
 
-  <img align="left" alt="Denis-Tojaga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Denis-Tojaga&show_icons=true&hide_border=true" />
+  <img align="left" alt="Denis-Tojaga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Denis-Tojaga&show_icons=true&hide_border=true?theme?=synthwave" />
 
 </details>
 
