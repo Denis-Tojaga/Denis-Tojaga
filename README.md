@@ -9,21 +9,7 @@
 
 
 
-
-
-
-### print("Glad that You are here, I'm Denis") 👋
-
-
-
 ## I'm a Student at Faculty of Information Technologies!
-
-- 📚 I’m currently learning everything 🤓
-- 💻 I’m opened for any kind of collaboration
-- 💬 Ask me about anything
-- 📌 2021 Goals: Contribute more and improve my skills
-- ⚡ Fun fact: I'm a former amateur football player⚽
-
 
 
 ### Connect with me:
@@ -46,18 +32,7 @@
 
 <br />
 <br />
----
----
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-</details>
-
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/denza.17/
 [linkedin]: https://www.linkedin.com/in/denis-tojaga-a807311ab/
 
