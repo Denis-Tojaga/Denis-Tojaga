@@ -33,6 +33,15 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Denis-Tojaga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Denis-Tojaga&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://www.instagram.com/denza.17/
 [linkedin]: https://www.linkedin.com/in/denis-tojaga-a807311ab/
 
