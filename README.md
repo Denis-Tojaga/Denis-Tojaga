@@ -1,4 +1,5 @@
-### print("Glad that You are here, I'm Denis") 👋
+### print("Glad You are here, I'm Denis") 👋
+
 
 
 - 📚 I’m currently learning everything 🤓
@@ -9,7 +10,10 @@
 
 
 
+
+
 ## I'm a Student at Faculty of Information Technologies!
+
 
 
 ### Connect with me:
