@@ -12,7 +12,7 @@
 
 
 
-## I'm a Student at Faculty of Information Technologies!
+## Software engineering student at Faculty of Information Technologies!
 
 
 
