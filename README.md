@@ -3,7 +3,7 @@
 
 
 - 📚 I’m currently learning C# and MySQL 🤓
-- 💻 I’m opened for any kind of collaboration
+- 💻 I’m open for any kind of collaboration
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
 - ⚡ Fun fact: I'm a former amateur football player⚽
