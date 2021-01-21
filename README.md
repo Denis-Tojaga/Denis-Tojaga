@@ -13,9 +13,9 @@
 
 
 ## Software engineering student at Faculty of Information Technologies!
-<br><br>
-### Just making sure you visit my portofolio page :)
-# https://denis-tojaga.github.io/
+<br>
+### For some additional info visit my portofolio page 👋
+## https://denis-tojaga.github.io/
 
 
 ### Connect with me:
