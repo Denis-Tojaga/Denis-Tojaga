@@ -12,7 +12,7 @@
 
 
 
-## Software engineering student at Faculty of Information Technologies!
+# Software engineering student at Faculty of Information Technologies!
 <br>
 # For some additional info visit my portofolio page 👋
 <br>
