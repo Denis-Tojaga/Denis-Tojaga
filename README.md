@@ -14,14 +14,15 @@
 
 # Software engineering student at Faculty of Information Technologies!
 
-<br><br>
+<br>
 
-# For some additional info about me and my work, visit my portofolio page
+## For some additional info about me and my work, visit my portofolio page
 
 <br>
 
-## https://denis-tojaga.github.io/
+### https://denis-tojaga.github.io/
 
+<br>
 
 ### Connect with me:
 
