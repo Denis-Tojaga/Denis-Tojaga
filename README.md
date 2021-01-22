@@ -19,7 +19,6 @@
 
 ### https://denis-tojaga.github.io/
 
-<br>
 
 ### Connect with me:
 
