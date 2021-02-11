@@ -2,7 +2,7 @@
 
 
 
-- 📚 I’m currently learning React Native and MySQL 🤓
+- 📚 I’m currently learning React Native and MongoDB 🤓
 - 💻 I’m open for any kind of collaboration
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
