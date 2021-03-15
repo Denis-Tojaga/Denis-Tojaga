@@ -13,7 +13,6 @@
 
 
 # Software engineering student
-<br>
 
 ## For some additional info about me visit my portofolio page 👋
 
