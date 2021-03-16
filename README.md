@@ -54,6 +54,10 @@
 
   <img align="left"  alt="Denis-Tojaga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Denis-Tojaga&show_icons=true&hide_border=true&theme=dark" />
 
+<br />
+![Profile Views](https://komarev.com/ghpvc/?username=Denis-Tojaga&color=blueviolet)
+
+
 </details>
 
 [instagram]: https://www.instagram.com/denza.17/
