@@ -1,5 +1,7 @@
 ### print("Glad You are here, I'm Denis") 👋
 
+[<img src="https://raw.githubusercontent.com/Denis-Tojaga/Denis-Tojaga/master/intro.gif" alt="👋 Hi there! I'm (Denis)" title="👋 Hi there! I'm Denis "/>]
+
 
 
 - 📚 I’m currently learning React Native and MongoDB 🤓
