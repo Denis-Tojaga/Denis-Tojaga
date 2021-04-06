@@ -3,7 +3,7 @@
 
 
 
-- 📚 I’m currently trying to become Full-Stack Developer 🤓
+- 📚 I’m trying to become Full-Stack Developer 🤓
 - 💻 I’m open for any kind of collaboration
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
