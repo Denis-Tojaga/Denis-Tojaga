@@ -4,7 +4,8 @@
 
 
 - 📚 I’m trying to become Mobile Developer 🤓
-- 💻 I’m open for any kind of collaboration
+- 💻 Intern at ITOdjel
+- 📚 Junior Scholar of BH Futures Foundation
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
 - ⚡ Fun fact: I'm a former amateur football player⚽
@@ -14,8 +15,7 @@
 
 
 # Software engineering student
-
-## Currently an exchange student at University of South-Eastern Norway
+## Exchange student at University of South-Eastern Norway
 
 <br />
 
