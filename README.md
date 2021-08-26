@@ -15,6 +15,8 @@
 
 # Software engineering student
 
+## Currently an exchange student at University of South-Eastern Norway
+
 ## For some additional info about me visit my portofolio page 👋
 
 ### https://denis-tojaga.github.io/
