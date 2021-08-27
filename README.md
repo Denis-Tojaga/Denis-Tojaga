@@ -14,7 +14,7 @@
 
 
 
-# Software engineering student and intern at ITOdjel
+# Software engineering student
 ## Exchange student at University of South-Eastern Norway
 
 # For some additional info about me visit my portofolio page 👋
