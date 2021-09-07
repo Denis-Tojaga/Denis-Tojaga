@@ -4,7 +4,6 @@
 
 
 - 📚 I’m trying to become Mobile Developer 🤓
-- 💻 Intern at ITOdjel
 - 📚 Junior Scholar of BH Futures Foundation
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
