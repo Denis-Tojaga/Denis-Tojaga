@@ -4,6 +4,7 @@
 
 
 - 📚 I’m trying to become Mobile Developer 🤓
+- 👋 Intern at TechBuddy 
 - 💬 Ask me about anything
 - 📌 2021 Goals: Contribute more and improve my skills
 - ⚡ Fun fact: I'm a former amateur football player⚽
