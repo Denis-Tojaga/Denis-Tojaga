@@ -2,19 +2,19 @@
 
 
 
-
-- 📚 I’m trying to become Mobile Developer 🤓
-- 👋 Intern at TechBuddy 
+- 👋 Software developer at @techbuddyab 
+- 📚 Software engineering student at Faculty of Information technologies �
 - 💬 Ask me about anything
-- 📌 2021 Goals: Contribute more and improve my skills
+- 📌 2022 Goals: Contribute more and improve my skills
 - ⚡ Fun fact: I'm a former amateur football player⚽
 
 
 
 
 
-# Software engineering student
-## Exchange student at University of South-Eastern Norway
+# Software engineering education
+## Former exchange student at <a href="https://www.usn.no/english/">University of South-Eastern Norway</a>
+## Currently student at <a href="https://fit.ba/">Faculty of Information technologies</a>
 
 # For some additional info about me visit my portofolio page 👋
 
