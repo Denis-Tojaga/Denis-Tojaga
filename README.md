@@ -2,7 +2,7 @@
 
 
 
-- 👋 Software developer at @techbuddyab 
+- 👋 Software developer at <a href="https://www.thebuddycompany.com/ ">The Buddy Company</a> 
 - 📚 Software engineering student at Faculty of Information technologies �
 - 💬 Ask me about anything
 - 📌 2022 Goals: Contribute more and improve my skills
@@ -13,8 +13,8 @@
 
 
 # Software engineering education
-## Former exchange student at <a href="https://www.usn.no/english/">University of South-Eastern Norway</a>
-## Currently student at <a href="https://fit.ba/">Faculty of Information technologies</a>
+* Former exchange student at <a href="https://www.usn.no/english/">University of South-Eastern Norway</a>
+* Currently student at <a href="https://fit.ba/">Faculty of Information technologies</a>
 
 # For some additional info about me visit my portofolio page 👋
 
