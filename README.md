@@ -14,7 +14,7 @@
 
 # Software engineering education
 * Former exchange student at <a href="https://www.usn.no/english/">University of South-Eastern Norway</a>
-* Currently student at <a href="https://fit.ba/">Faculty of Information technologies</a>
+* Currently 3rd year student at <a href="https://fit.ba/">Faculty of Information technologies</a>
 
 # For some additional info about me visit my portofolio page 👋
 
