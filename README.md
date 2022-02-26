@@ -3,7 +3,7 @@
 
 
 - 👋 Software developer at <a href="https://www.thebuddycompany.com/ ">The Buddy Company</a> 
-- 📚 Software engineering student at Faculty of Information technologies �
+- 📚 Software engineering student at Faculty of Information technologies 
 - 💬 Ask me about anything
 - 📌 2022 Goals: Contribute more and improve my skills
 - ⚡ Fun fact: I'm a former amateur football player⚽
