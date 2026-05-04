@@ -2,19 +2,15 @@
 
 
 
-- 👋 Software engineer at <a href="https://symphony.is/ ">Symphony.is</a> 
-- 📚 Software engineering student at Faculty of Information technologies 
+- 👋 Senior Software engineer at <a href="https://symphony.is/ ">Symphony.is</a> 
 - 💬 Ask me about anything
-- 📌 2022 Goals: Contribute more and improve my skills
-- ⚡ Fun fact: I'm a former amateur football player⚽
-
-
+- 📌 2026 Goals: Contribute more and improve my skills
 
 
 
 # Education
 * Former exchange student at <a href="https://www.usn.no/english/">University of South-Eastern Norway</a>
-* Currently 4th year student at <a href="https://fit.ba/">Faculty of Information technologies</a>
+* Former student at <a href="https://fit.ba/">Faculty of Information technologies</a>
 
 ### Connect with me:
 
